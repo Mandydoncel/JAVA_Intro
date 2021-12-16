@@ -35,7 +35,7 @@ public class Animal {
 		return som;
 	}
 
-	public void setSom(String som) {
+	public void setSom(final String som) {
 		this.som = som;
 
 	

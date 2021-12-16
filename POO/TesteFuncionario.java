@@ -4,7 +4,7 @@ import java.util.*;
 
 public class TesteFuncionario {
 
-	public static void main(String [] srgs)
+	public static void main(String [] args)
 	{
 		Scanner leia = new Scanner(System.in);
 		Funcionario func1 = new Funcionario (null, null, null, null);
